@@ -1,4 +1,4 @@
-![logo](https://www.creative-tim.com/blog/content/images/size/w960/2021/10/Github-profile-1.jpg)
+![logo](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png)
 
 <h1 align="center">Hi 👋, I'm Shiva Sharma</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
