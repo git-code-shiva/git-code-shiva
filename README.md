@@ -1,4 +1,4 @@
-![logo](https://blogs.swarthmore.edu/its/wp-content/uploads/2022/12/github-universe-1920x768.png)
+![logo](banner.png)
 
 <h1 align="center">Hi 👋, I'm Shiva Sharma</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
@@ -10,6 +10,8 @@
 - 🔭 I’m currently working on **instaClone**
 
 - 🌱 I’m currently learning **MERN stack**
+
+- 👨‍💻 All of my projects are available at [linktr.ee/shiva_sharma29](linktr.ee/shiva_sharma29)
 
 - 💬 Ask me about **react-js, express-js, node-js, mongoDB**
 
