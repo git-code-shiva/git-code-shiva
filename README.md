@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [linktr.ee/shiva_sharma29](linktr.ee/shiva_sharma29)
+- 👨‍💻 All of my projects are available at https://linktr.ee/shiva_sharma29?utm_source=linktree_admin_share
 
 - 💬 Ask me about **react-js, express-js, node-js, mongoDB**
 
